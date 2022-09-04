@@ -1,0 +1,1 @@
+const mastera=1;
